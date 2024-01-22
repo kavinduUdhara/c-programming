@@ -1,4 +1,4 @@
-public class hello_world {
+public class mod_1010_01 {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("this is the 2nd line\n");

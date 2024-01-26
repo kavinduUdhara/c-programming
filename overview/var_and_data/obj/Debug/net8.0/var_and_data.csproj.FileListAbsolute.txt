@@ -1,0 +1,15 @@
+F:\repos\c-programming\overview\var_and_data\bin\Debug\net8.0\var_and_data.exe
+F:\repos\c-programming\overview\var_and_data\bin\Debug\net8.0\var_and_data.deps.json
+F:\repos\c-programming\overview\var_and_data\bin\Debug\net8.0\var_and_data.runtimeconfig.json
+F:\repos\c-programming\overview\var_and_data\bin\Debug\net8.0\var_and_data.dll
+F:\repos\c-programming\overview\var_and_data\bin\Debug\net8.0\var_and_data.pdb
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\var_and_data.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\var_and_data.AssemblyInfoInputs.cache
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\var_and_data.AssemblyInfo.cs
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\var_and_data.csproj.CoreCompileInputs.cache
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\var_and_data.sourcelink.json
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\var_and_data.dll
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\refint\var_and_data.dll
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\var_and_data.pdb
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\var_and_data.genruntimeconfig.cache
+F:\repos\c-programming\overview\var_and_data\obj\Debug\net8.0\ref\var_and_data.dll

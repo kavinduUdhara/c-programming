@@ -1,0 +1,15 @@
+f:\repos\c-programming\overview\hello_world\bin\Debug\net8.0\hello_world.exe
+f:\repos\c-programming\overview\hello_world\bin\Debug\net8.0\hello_world.deps.json
+f:\repos\c-programming\overview\hello_world\bin\Debug\net8.0\hello_world.runtimeconfig.json
+f:\repos\c-programming\overview\hello_world\bin\Debug\net8.0\hello_world.dll
+f:\repos\c-programming\overview\hello_world\bin\Debug\net8.0\hello_world.pdb
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\hello_world.AssemblyInfoInputs.cache
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\hello_world.AssemblyInfo.cs
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\hello_world.csproj.CoreCompileInputs.cache
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\hello_world.sourcelink.json
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\hello_world.dll
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\refint\hello_world.dll
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\hello_world.pdb
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\hello_world.genruntimeconfig.cache
+f:\repos\c-programming\overview\hello_world\obj\Debug\net8.0\ref\hello_world.dll

@@ -1,0 +1,5 @@
+F:\repos\c-programming\overview\comments\obj\Debug\net8.0\comments.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\c-programming\overview\comments\obj\Debug\net8.0\comments.AssemblyInfoInputs.cache
+F:\repos\c-programming\overview\comments\obj\Debug\net8.0\comments.AssemblyInfo.cs
+F:\repos\c-programming\overview\comments\obj\Debug\net8.0\comments.csproj.CoreCompileInputs.cache
+F:\repos\c-programming\overview\comments\obj\Debug\net8.0\comments.sourcelink.json

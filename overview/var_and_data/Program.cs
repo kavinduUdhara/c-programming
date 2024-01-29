@@ -3,10 +3,10 @@ using System.Numerics;
 using System.Security.Principal;
 
 int i = 10;
-float f = 10.5f;
+float f = 2.5f;
 decimal d = 10.0m;
 bool b = true;
-char c = 'c';
+char c = 'c'; //this wanna be within signle quotes
 
 //string type
 string str = "this is a string";
@@ -32,3 +32,9 @@ Console.WriteLine(o);
 //implicit conversion between types
 long bignum;
 bignum = i;
+
+//explict conversions
+float i_to_f = (float)i;
+Console.WriteLine("{0}",i_to_f);
+int f_to_i = (int)f;
+Console.WriteLine("{0}",f_to_i);

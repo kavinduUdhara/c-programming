@@ -1,0 +1,15 @@
+F:\repos\c-programming\program_flow\conditional_switch\bin\Debug\net8.0\conditional_switch.exe
+F:\repos\c-programming\program_flow\conditional_switch\bin\Debug\net8.0\conditional_switch.deps.json
+F:\repos\c-programming\program_flow\conditional_switch\bin\Debug\net8.0\conditional_switch.runtimeconfig.json
+F:\repos\c-programming\program_flow\conditional_switch\bin\Debug\net8.0\conditional_switch.dll
+F:\repos\c-programming\program_flow\conditional_switch\bin\Debug\net8.0\conditional_switch.pdb
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\conditional_switch.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\conditional_switch.AssemblyInfoInputs.cache
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\conditional_switch.AssemblyInfo.cs
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\conditional_switch.csproj.CoreCompileInputs.cache
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\conditional_switch.sourcelink.json
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\conditional_switch.dll
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\refint\conditional_switch.dll
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\conditional_switch.pdb
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\conditional_switch.genruntimeconfig.cache
+F:\repos\c-programming\program_flow\conditional_switch\obj\Debug\net8.0\ref\conditional_switch.dll

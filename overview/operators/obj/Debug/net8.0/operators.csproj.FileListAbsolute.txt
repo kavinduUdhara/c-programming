@@ -1,0 +1,15 @@
+F:\repos\c-programming\overview\operators\bin\Debug\net8.0\operators.exe
+F:\repos\c-programming\overview\operators\bin\Debug\net8.0\operators.deps.json
+F:\repos\c-programming\overview\operators\bin\Debug\net8.0\operators.runtimeconfig.json
+F:\repos\c-programming\overview\operators\bin\Debug\net8.0\operators.dll
+F:\repos\c-programming\overview\operators\bin\Debug\net8.0\operators.pdb
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\operators.AssemblyInfoInputs.cache
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\operators.AssemblyInfo.cs
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\operators.csproj.CoreCompileInputs.cache
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\operators.sourcelink.json
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\operators.dll
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\refint\operators.dll
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\operators.pdb
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\operators.genruntimeconfig.cache
+F:\repos\c-programming\overview\operators\obj\Debug\net8.0\ref\operators.dll
